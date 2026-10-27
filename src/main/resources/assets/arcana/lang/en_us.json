@@ -1,0 +1,16 @@
+{
+  "itemGroup.arcana": "Arcana",
+  "block.arcana.arcane_altar": "Arcane Altar",
+  "item.arcana.arcane_lens": "Arcane Lens",
+  "item.arcana.arcane_vial": "Arcane Vial",
+  "arcana.message.concentration": "The magic here is %s (%s).",
+  "arcana.message.not_genesis": "This is not a Genesis world: there is no free magic here.",
+  "arcana.message.collected": "Drew %s units of magic out of the ground.",
+  "arcana.message.offered": "Offered %s units of magic to the ground.",
+  "arcana.message.too_few": "The ground here is too poor to give anything up.",
+  "arcana.message.saturated": "The ground is already saturated; the rest was lost.",
+  "arcana.message.not_magic": "That carries no magic at all.",
+  "arcana.message.nothing_happened": "Nothing happened.",
+  "arcana.tooltip.vial_charge": "Magic inside: %s",
+  "arcana.tooltip.vial_empty": "Empty"
+}
